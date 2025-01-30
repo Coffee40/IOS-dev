@@ -2,7 +2,9 @@
 
 Submitted by: **Justin Beverly**
 
-**Code Path Intro** is an app that... [Displays a few bits of information about me and a button that changes background colors when pressed] 
+**Code Path Intro** is an app that... 
+
+     [Displays a few bits of information about me and has a button that changes background colors when pressed] 
 
 Time spent: **3** hours spent in total
 
@@ -48,6 +50,8 @@ Start Loom Onboarding | Loom - 30 January 2025 - Watch Video
 
 Describe any challenges encountered while building the app.
 
+    A challange I had was figuring out how to set up the repository link to my laptop, but the video was really helpful!
+    
 ## License
 
     Copyright [yyyy] [name of copyright owner]
