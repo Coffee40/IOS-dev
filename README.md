@@ -2,7 +2,7 @@
 
 Submitted by: **Justin Beverly**
 
-**Code Path Intro** is an app that... [Displays a few bits of information about me and a button that changes background colors when pressed] 
+**Code Path Intro** is an app that... [Displays a few bits of information about me and has a button that changes background colors when pressed] 
 
 Time spent: **3** hours spent in total
 
